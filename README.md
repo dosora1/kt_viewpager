@@ -7,5 +7,5 @@ val datas = mutableListOf<String>()
 ```
 - MainActivity.kt 코드 요약  
 &nbsp;1. datas 리스트 선언
-2. ```datas.add()```를 통해 데이터를 추가
+&nbsp;2. ```datas.add()```를 통해 데이터를 추가
 
